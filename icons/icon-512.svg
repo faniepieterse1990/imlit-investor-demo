@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="iMLit icon">
+  <rect width="512" height="512" rx="112" fill="#08111f"/>
+  <circle cx="374" cy="128" r="108" fill="#d7b46a" opacity="0.18"/>
+  <path d="M154 132h138c36 0 64 29 64 64v166c0 11-12 18-22 13l-45-22H154c-36 0-64-29-64-64v-93c0-36 29-64 64-64Z" fill="#f4eadb" opacity="0.95"/>
+  <path d="M188 186v118M236 186v118M284 186v118" stroke="#4b2029" stroke-width="22" stroke-linecap="round"/>
+  <path d="M349 318l43 22V219" stroke="#d7b46a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" role="img" aria-label="iMLit touch icon">
+  <rect width="180" height="180" rx="40" fill="#08111f"/>
+  <path d="M55 46h52c14 0 25 11 25 25v59l-24-12H55c-14 0-25-11-25-25V71c0-14 11-25 25-25Z" fill="#f4eadb"/>
+  <path d="M67 67v43M86 67v43M105 67v43" stroke="#4b2029" stroke-width="8" stroke-linecap="round"/>
+  <path d="M128 116l20 10V78" stroke="#d7b46a" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
